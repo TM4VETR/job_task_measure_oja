@@ -1,3 +1,6 @@
+data/corpus_anonymized.7z
+data/TypeSystem_Anonymized.xml
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
