@@ -1,3 +1,9 @@
+analysis_code/data/round1.dta
+analysis_code/data/round2.dta
+analysis_code/data/round3.dta
+analysis_code/data/round4.dta
+
+
 data/corpus_anonymized.7z
 data/TypeSystem_Anonymized.xml
 
@@ -219,3 +225,4 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
