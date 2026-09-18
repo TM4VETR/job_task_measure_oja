@@ -1,29 +1,26 @@
 cff-version: 1.2.0
+type: software
+
 message: "If you use this code in your research, please cite the associated paper and this software repository."
 
-title: "OJA Job Task Measure"
-
 authors:
+  - family-names: "Schulz"
+    given-names: "Wiebke"
+    orcid: "https://orcid.org/0000-0001-9335-3187"
 
-* family-names: "Schulz"
-  given-names: "Wiebke"
+  - family-names: "Binnewitt"
+    given-names: "Johanna"
+    orcid: "https://orcid.org/0000-0001-9513-9045"
 
-  # orcid: "https://orcid.org/0000-0001-9335-3187"
+  - family-names: "Wiesner"
+    given-names: "Timo"
+    orcid: "https://orcid.org/0009-0004-7931-7613"
 
-* family-names: "Binnewitt"
-  given-names: "Johanna"
+  - family-names: "Winnige"
+    given-names: "Stefan"
+    orcid: "https://orcid.org/0009-0003-5801-0025"
 
-  # orcid: "https://orcid.org/0000-0001-9513-9045"
-
-* family-names: "Wiesner"
-  given-names: "Timo"
-
-  # orcid: "https://orcid.org/0009-0004-7931-7613"
-
-* family-names: "Winnige"
-  given-names: "Stefan"
-
-  # orcid: "https://orcid.org/0009-0003-5801-0025"
+title: "OJA Job Task Measure"
 
 version: "1.0.0"
 date-released: "2026-09-18"
@@ -31,5 +28,3 @@ date-released: "2026-09-18"
 repository-code: "https://github.com/TM4VETR/job_task_measure_oja"
 
 license: "MIT"
-
-type: software
