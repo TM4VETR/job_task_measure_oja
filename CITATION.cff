@@ -28,8 +28,6 @@ authors:
 version: "1.0.0"
 date-released: "2026-09-18"
 
-doi: "10.5281/zenodo.22829348"
-
 repository-code: "https://github.com/TM4VETR/job_task_measure_oja"
 
 license: "MIT"
